@@ -18,7 +18,7 @@ The dataset is from: https://thecleverprogrammer.com/2021/02/08/customer-persona
 
 ### nbviewer version
 * link to notebook with Plotly visualizations enabled:  
-https://nbviewer.org/github/facundoriosds/Project-11-E-Commerce-Customer-Segmentation/blob/main/P_11.ipynb
+https://nbviewer.org/github/facundoriosds/Project-12-Store-Customer-Segmentation/blob/main/P_12.ipynb
 
 Notebook captures:
 
