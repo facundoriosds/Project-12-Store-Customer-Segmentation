@@ -1,7 +1,3 @@
-## E-Commerce Customer Segmentation
-
-### Project Overview
-
 ## Customer Segmentation (with PCA) 
 
 ### Project Overview
