@@ -9,7 +9,7 @@
 **Packages:** pandas, numpy, matplotlib, seaborn, plotly, sklearn.
 
 ### Dataset
-The dataset is from: https://thecleverprogrammer.com/2021/02/08/customer-personality-analysis-with-python/#google_vignette
+The dataset is from: https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis/data
 
 
 ### nbviewer version
